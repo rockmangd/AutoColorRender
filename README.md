@@ -1,7 +1,7 @@
 # AutoColorRender
 A tool helps you add color with a black and white shading picture.
 ## Example
-To run the tool, you need tow pictures: a color filling picture and a black and white shading picture.  
+To run the tool, you need two pictures: a color filling picture and a black and white shading picture.  
 ![1](https://user-images.githubusercontent.com/22754433/127708489-5e4d164f-40bc-4a3b-b11e-f14dd00a2832.jpg)  
 A color picture  
 ![2](https://user-images.githubusercontent.com/22754433/127708658-20b64994-a268-4ee1-be3b-8745ed7e904a.jpg)  
